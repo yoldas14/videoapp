@@ -2,6 +2,9 @@
 
 React Native App For Video Search & List
 
+![Simulator Screen Recording - iPhone 13 - 2022-04-25 at 11 47 42](https://user-images.githubusercontent.com/44255528/165065053-f876698c-03bf-4f05-8490-5f8697acbfed.gif)
+
+
 ## Installation
 
 1. Install dependencies
